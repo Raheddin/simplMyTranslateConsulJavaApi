@@ -1,0 +1,6 @@
+degree,dərəcəsi
+wonder,görəsən
+attack,hücum
+herself,özü
+region,bölgə
+map,xəritə
